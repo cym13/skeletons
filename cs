@@ -1,4 +1,7 @@
+using System;
 
-static void Main(string[] args)
-{
+class MainClass {
+    static void Main(string[] args)
+    {
+    }
 }
